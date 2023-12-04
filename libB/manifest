@@ -11,5 +11,3 @@ email: cjangus@gmail.com
 #build-error-email: cjangus@gmail.com
 depends: * build2 >= 0.16.0
 depends: * bpkg >= 0.16.0
-
-depends: libA
