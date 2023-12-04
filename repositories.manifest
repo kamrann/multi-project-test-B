@@ -8,4 +8,4 @@ summary: projB project repository
 
 :
 role: prerequisite
-location: https://github.com/kamrann/multi-project-test-A.git#main
+location: https://github.com/kamrann/multi-project-test-A.git#project-level-cycle
